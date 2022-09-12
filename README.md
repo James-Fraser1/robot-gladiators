@@ -55,9 +55,10 @@ We have created what we believe is a great starting point in choosing your new b
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
+       <ul>
+        <li><a href="#heroku">Deploy to Heroku</a></li>
+      </ul>
     <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
