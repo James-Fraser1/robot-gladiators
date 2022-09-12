@@ -52,12 +52,10 @@ We have created what we believe is a great starting point in choosing your new b
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Installation</a></li>
+        <li><a href="#heroku">Deploy to Heroku</a></li>
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-       <ul>
-        <li><a href="#heroku">Deploy to Heroku</a></li>
-      </ul>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -123,6 +121,12 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    npm install
    ```
+   
+   
+### Deploy to Heroku
+You can also deploy this app to Heroku:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -132,11 +136,6 @@ This is an example of how to list things you need to use the software and how to
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-## Deploy to Heroku
-You can also deploy this app to Heroku:
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
