@@ -78,7 +78,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* (https://img.shields.io/badge/JS-NODE-success?style=plastic)
+* ![Node.js](https://img.shields.io/badge/JS-NODE-success?style=plastic)
 * [![Express][Express.js]][Express-url]
 * [![Handlebars][Handlebars.js]][Handlebars-url]
 * [![Bulma][Bulma.io]][Bulma-url]
