@@ -30,15 +30,7 @@
   <p align="center">
     Here at Leash League we 
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
+    <a href="https://github.com/github_rockwoodc/LeashLeague"><strong>Explore the docs »</strong></a>
 </div>
 
 
@@ -76,6 +68,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
+You can see a hosted version of `The Leash League app` on <a href="https://Leash-League.contentful.com/" target="_blank">Heroku</a>.
+
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -84,14 +78,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
+* [![Node][Node.js]][Node-url]
+* [![Express][Express.js]][Express-url]
+* [![Handlebars][Handlebars.js]][Handlebars-url]
+* [![Bulma][Bulma.io]][Bulma-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![MySQL][MySQL.com]][MySQL-url]
+* [![Sequelize][Sequelize.org]][Sequelize-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,21 +104,17 @@ This is an example of how to list things you need to use the software and how to
   ```sh
   npm install
   ```
+  
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
    git clone https://github.com/rockwoodc/LeashLeague.git
    ```
 3. Install NPM packages
    ```sh
    npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -136,17 +126,19 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+## Deploy to Heroku
+You can also deploy this app to Heroku:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the coding community such a fantastic environment to learn, create, and collaborate. Any contributions you make are **greatly appreciated**.
 
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also open an issue with the tag "enhancement".
 
 1. Fork the Project
 2. Create your Feature Branch (`git checkout -b feature/LeashLeauge`)
@@ -159,9 +151,12 @@ Don't forget to give the project a star! Thanks again!
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Christopher Campaigne - email@gmail.com
+James Fraser - email@gmail.com
+Cortland Finch - email@gmail.com
+Christian Rockwood - email@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/github_rockwoodc/LeashLeague](https://github.com/github_rockwoodc/LeashLeague)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
