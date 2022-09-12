@@ -78,14 +78,12 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* ![Node.js](https://img.shields.io/badge/JS-NODE-success?style=plastic)
-* [![Express][Express.js]][Express-url]
-* [![Handlebars][Handlebars.js]][Handlebars-url]
-* [![Bulma][Bulma.io]][Bulma-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![MySQL][MySQL.com]][MySQL-url]
-* [![Sequelize][Sequelize.org]][Sequelize-url]
+* ![Node.js](https://img.shields.io/badge/JS-NODE-success?style=plastic?logo=#339933)
+* ![Express.js](https://img.shields.io/badge/JS-EXPRESS-success?style=plastic?logo=#000000)
+* ![Handlebars.js](https://img.shields.io/badge/JS-HANDLEBARS-success?style=plastic?logo=#000000)
+* ![Bulma.css](https://img.shields.io/badge/CSS-BULMA-informational?style=plastic?logo=#00D1B2)
+* ![mySQL](https://img.shields.io/badge/ORM-mySQL-important?style=plastic?logo=#4479A1)
+* ![Sequelize](https://img.shields.io/badge/ORM-Sequelize-critical?style=plastic?logo=#52B0E7)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
