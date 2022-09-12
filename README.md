@@ -78,7 +78,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Node][Node.js]][https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg]
+* [![Node][Node.js]](https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg)
 * [![Express][Express.js]][Express-url]
 * [![Handlebars][Handlebars.js]][Handlebars-url]
 * [![Bulma][Bulma.io]][Bulma-url]
